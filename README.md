@@ -1,0 +1,4 @@
+Hermandad-Bug
+=============
+
+Hola tengo un grave problema con mi hermandad STALKER todos los dias debo repararla porque se borran los permisos del banco para el uso de mis compañeros, tengo un rango que es solo para el ayudante y se borra todos los dias y es molestoso tanto para mi como para mis compañeros estar sin poder usar el banco hasta que lo configure nuevamente, otra cosa que me e dado cuenta es que no hace los debitos automaticos de dinero aunque e visto en los logros que es desde nivel 5 pero un mj me dijo que desde que inicia la hermandad se hace lo del debito automaticamente y que el logro solamente es para ir subiendo el porcentaje del debito. Por favor ayudenmen con eso y que los permisos no se sigan borrando y me parece que eso pasa cada vez que hay una caida o reinicio del server...
